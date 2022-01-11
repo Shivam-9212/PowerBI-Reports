@@ -1,0 +1,1 @@
+Maven Market, a multi-national grocery chain with locations in Canada, Mexico and the United States. This workflow includes connecting and shaping the source data, building a relational model, adding calculated columns and measures, and designing an interactive report.
